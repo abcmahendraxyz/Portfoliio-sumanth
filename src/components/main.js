@@ -39,7 +39,7 @@ function Main() {
               />
             </div>
             <div className="right-container-desc">
-              <h1 className="title">Konthala Sumanth</h1>
+              <h1 className="title">Leo Sumanth</h1>
               <h4 className="jobtitle">Full Stack & App developer</h4>
               <p className="description">
                 Dedicated web developer with one year of experience in database
